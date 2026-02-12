@@ -11,9 +11,26 @@ https://doi.org/10.5281/zenodo.17666996
 
 ## Paper
 
-The paper can be seen at NDSS26_FINAL_VERSION.pdf.
+The paper can be seen at [NDSS26_FINAL_VERSION.pdf](NDSS26_FINAL_VERSION.pdf).
 
-Citation: Hanqing Zhao, Yiming Zhang, Lingyun Ying, Mingming Zhang, Baojun Liu, Haixin Duan, Zi-Quan You, and Shuhao Zhang. Understanding the Status and Strategies of the Code Signing Abuse Ecosystem. In *Symposium on Network and Distributed System Security (NDSS)*, 2026.
+## Citation
+
+If you use the dataset in your research, please cite:
+```
+@inproceedings{xxx,
+  title={Understanding the Status and Strategies of the Code Signing Abuse Ecosystem},
+  author={Zhao, Hanqing and Zhang, Yiming and Ying, Lingyun and Zhang, Mingming and Liu, Baojun and Duan, Haixin and You, Zi-Quan and Zhang, Shuhao},
+  booktitle={Network and Distributed System Security (NDSS) Symposium},
+  year={2026},
+  doi={10.14722/ndss.2026.242857}
+}
+```
+
+# Contact
+
+- You can visit my personal website: https://zhaohq00.github.io/
+
+- You can also reach me via email: zhaohq23@mails.tsinghua.edu.cn
 
 ## License
 
